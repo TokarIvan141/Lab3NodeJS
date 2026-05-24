@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-04-08T21:35:51.084Z",
+    "method": "GET",
+    "path": "/",
+    "pathVariables": {},
+    "queryString": {},
+    "userAgent": "Unknown",
+    "statusCode": 200,
+    "executionTimeMs": "0.405"
+  },
+  {
+    "timestamp": "2026-04-08T21:35:51.089Z",
+    "method": "GET",
+    "path": "/",
+    "pathVariables": {},
+    "queryString": {},
+    "userAgent": "Unknown",
+    "statusCode": 200,
+    "executionTimeMs": "0.282"
+  },
+  {
+    "timestamp": "2026-04-08T21:35:51.098Z",
+    "method": "GET",
+    "path": "/",
+    "pathVariables": {},
+    "queryString": {},
+    "userAgent": "Unknown",
+    "statusCode": 200,
+    "executionTimeMs": "0.254"
+  },
+  {
+    "timestamp": "2026-05-24T09:15:48.852Z",
+    "method": "GET",
+    "path": "/",
+    "pathVariables": {},
+    "queryString": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0",
+    "statusCode": 200,
+    "executionTimeMs": "6.745"
+  },
+  {
+    "timestamp": "2026-05-24T09:15:49.441Z",
+    "method": "GET",
+    "path": "/favicon.ico",
+    "pathVariables": {},
+    "queryString": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0",
+    "statusCode": 404,
+    "executionTimeMs": null
+  },
+  {
+    "timestamp": "2026-05-24T09:15:55.053Z",
+    "method": "GET",
+    "path": "/api-docs",
+    "pathVariables": {},
+    "queryString": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0",
+    "statusCode": 404,
+    "executionTimeMs": null
+  },
+  {
+    "timestamp": "2026-05-24T09:16:04.761Z",
+    "method": "GET",
+    "path": "/",
+    "pathVariables": {},
+    "queryString": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0",
+    "statusCode": 200,
+    "executionTimeMs": "583.877"
+  }
+]
